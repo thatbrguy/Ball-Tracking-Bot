@@ -12,6 +12,8 @@ This bot was originally created to enable a drone (on a raspberry pi) to autonom
 
 The code in this repo does not have the GPIO configuration that is used to give a feedback to the drone. Instead, it opens your webcam, and tracks the ball infront of it.
 
+See it in action by playing `test.avi`.
+
 ### Requirements
 - OpenCV
 - NumPy
@@ -20,5 +22,4 @@ The code in this repo does not have the GPIO configuration that is used to give 
 - Run `calibrate.py` and adjust the HSV values to segment out the ball. Note the HSV low and high values.
 - Set the low and high values in `track.py` 
 - Save it and execute `python track.py`.
-
 
