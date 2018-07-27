@@ -1,7 +1,9 @@
 # Ball-Tracking-Bot
 A simple bot that can track a ball in three dimensions, using a 2D video input. No machine learning involved.
 
-![Ball-Tracking-Bot in action](/test.gif)
+<p align="center">
+  <img src="/test.gif" alt="Ball-Tracking-Bot in action">
+ </p>
 
 ### Features
 This bot uses pure computer vision concepts. Compared to conventional ML models, it:
