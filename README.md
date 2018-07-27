@@ -34,4 +34,4 @@ See it in action by playing `test.avi`.
 - Optionally, you can modify the options --offset_x and --offset_y to adjust sensitivity.
 
 ### References
-- ![PyImageSearch](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
+- [PyImageSearch](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
