@@ -32,3 +32,6 @@ See it in action by playing `test.avi`.
 - Run `calibrate.py` and adjust the HSV values to segment out the ball. Note the HSV low (HL,SL,VL) and HSV high (HH,SH,VH) values.
 - Execute `python track.py --hsv_low HL,SL,VL --hsv_high HH,SH,VH`.
 - Optionally, you can modify the options --offset_x and --offset_y to adjust sensitivity.
+
+### References
+- ![PyImageSearch](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
